@@ -1,12 +1,12 @@
 
-![Packagist Version](https://img.shields.io/packagist/v/nuxeo/nuxeo-php-client)
-![Packagist Downloads](https://img.shields.io/packagist/dt/nuxeo/nuxeo-php-client)
-![GitHub](https://img.shields.io/github/license/nuxeo/nuxeo-php-client)
+![Packagist Version](https://img.shields.io/packagist/v/raymond10/nuxeo-php-client)
+![Packagist Downloads](https://img.shields.io/packagist/dt/raymond10/nuxeo-php-client)
+![GitHub](https://img.shields.io/github/license/raymond10/nuxeo-php-client)
 
-[![Dependencies checks](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/dependencies_check.yml/badge.svg)](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/dependencies_check.yml)
-[![Unit tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/unit_tests.yml)
-[![Functional tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/ftests.yml/badge.svg)](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/ftests.yml)
-[![Integration tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/integration_tests.yml/badge.svg)](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/integration_tests.yml)
+[![Dependencies checks](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/dependencies_check.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/dependencies_check.yml)
+[![Unit tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/unit_tests.yml)
+[![Functional tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/ftests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/ftests.yml)
+[![Integration tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/integration_tests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/integration_tests.yml)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.nuxeo%3Anuxeo-php-client&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.nuxeo%3Anuxeo-php-client)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=org.nuxeo%3Anuxeo-php-client&metric=security_rating)](https://sonarcloud.io/dashboard?id=org.nuxeo%3Anuxeo-php-client)
@@ -25,10 +25,10 @@ This is supported by Nuxeo and compatible with Nuxeo LTS 2015 and latest Fast Tr
 
 ## Requirements
 
- * ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/nuxeo/nuxeo-php-client)
+ * ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/raymond10/nuxeo-php-client)
  * [Composer](https://getcomposer.org/)
 
-Stuck with an old PHP version ? Have a look at [v1.5](https://github.com/nuxeo/nuxeo-php-client/tree/1.5), it offers limited but effective support and requires PHP 5.3+
+Stuck with an old PHP version ? Have a look at [v1.5](https://github.com/raymond10/nuxeo-php-client/tree/1.5), it offers limited but effective support and requires PHP 5.3+
 
 ## Getting Started
 
@@ -53,9 +53,9 @@ Stuck with an old PHP version ? Have a look at [v1.5](https://github.com/nuxeo/n
 
 ### Library import
 
-Download the latest build [Nuxeo PHP Client main](https://github.com/nuxeo/nuxeo-php-client/archive/main.zip).
+Download the latest build [Nuxeo PHP Client main](https://github.com/raymond10/nuxeo-php-client/archive/main.zip).
 
-Download the latest stable ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/nuxeo/nuxeo-php-client).
+Download the latest stable ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/raymond10/nuxeo-php-client).
 
 Composer:
 
@@ -257,7 +257,7 @@ The main exception type is `Nuxeo\Client\Spi\NuxeoClientException` and contains:
 
 ## Docker
 
-We provide a [docker-compose.yml](https://github.com/nuxeo/nuxeo-php-client/blob/master/docker-compose.yml) for quick testing
+We provide a [docker-compose.yml](https://github.com/raymond10/nuxeo-php-client/blob/master/docker-compose.yml) for quick testing
 
 Just install docker-compose and run `docker-compose up`, you'll have a nuxeo running on http://localhost:9081/ and nginx on http://localhost:9080/
 
@@ -268,7 +268,7 @@ You can access the samples with http://localhost:9080/samples/B1.php for example
 We are glad to welcome new developers, and even simple usage feedback is great
 
  * Ask your questions on http://answers.nuxeo.com/
- * Report issues on this GitHub repository (see [issues link](https://github.com/nuxeo/nuxeo-php-client/issues) on the right)
+ * Report issues on this GitHub repository (see [issues link](https://github.com/raymond10/nuxeo-php-client/issues) on the right)
 
 # License
 
