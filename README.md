@@ -3,10 +3,10 @@
 ![Packagist Downloads](https://img.shields.io/packagist/dt/raymond10/nuxeo-php-client)
 ![GitHub](https://img.shields.io/github/license/raymond10/nuxeo-php-client)
 
-[![Dependencies checks](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/dependencies_check.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/dependencies_check.yml)
-[![Unit tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/unit_tests.yml)
+[![Dependencies checks](https://github.com/raymond10/nuxeo-php-client/actions/workflows/dependencies_check.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/dependencies_check.yml)
+[![Unit tests](https://github.com/raymond10/nuxeo-php-client/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/unit_tests.yml)
 [![Functional tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/ftests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/ftests.yml)
-[![Integration tests](https://github.com/nuxeo/nuxeo-php-client/actions/workflows/integration_tests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/integration_tests.yml)
+[![Integration tests](https://github.com/raymond10/nuxeo-php-client/actions/workflows/integration_tests.yml/badge.svg)](https://github.com/raymond10/nuxeo-php-client/actions/workflows/integration_tests.yml)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.nuxeo%3Anuxeo-php-client&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.nuxeo%3Anuxeo-php-client)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=org.nuxeo%3Anuxeo-php-client&metric=security_rating)](https://sonarcloud.io/dashboard?id=org.nuxeo%3Anuxeo-php-client)
